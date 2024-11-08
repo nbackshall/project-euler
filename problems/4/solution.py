@@ -1,4 +1,4 @@
-"""Problem 3: Largest Palindromic Product"""
+"""Problem 4: Largest Palindromic Product"""
 
 
 def largest_palindromic_product(n: int = 2):
